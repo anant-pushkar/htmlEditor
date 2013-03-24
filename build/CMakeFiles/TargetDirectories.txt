@@ -1,0 +1,3 @@
+/home/anantpushkar/Desktop/kdeTutorials/test/build/CMakeFiles/text_editor.dir
+/home/anantpushkar/Desktop/kdeTutorials/test/build/CMakeFiles/text_editor_automoc.dir
+/home/anantpushkar/Desktop/kdeTutorials/test/build/CMakeFiles/uninstall.dir
